@@ -1,6 +1,9 @@
-### Jwt (structured token/ value token) with spring security. 
+## Security filter chain doing authentication and authorization of *jwt token*
+ 
+### _Jwt (structured token/ value token) with spring security._ 
 ##### This is the restful application where, rest uri send for to get token; token will get as response attached in response-header as authorization key
 ##### Have Custom  authentication entry point for handling custom json response
+
 
 #### Request for authentication
 
